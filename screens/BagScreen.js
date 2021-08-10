@@ -31,7 +31,7 @@ export default function BagScreen() {
                 <TouchableOpacity style={{ height: 40, width: 40, borderWidth: 1, borderRadius: 40 / 2, justifyContent: 'center', alignItems: 'center' }}>
                   <IconIonicons name="trash-bin-outline" size={20} />
                 </TouchableOpacity>
-                <Text style={{ fontSize: 18, fontWeight: 'bold', marginTop: 5 }}>Qty: 1</Text>
+                <Text style={{ fontSize: 18, fontWeight: 'bold', marginTop: 5 }}>Qty: 2</Text>
                 <TouchableOpacity style={{ height: 40, width: 40, borderWidth: 1, borderRadius: 40 / 2, justifyContent: 'center', alignItems: 'center' }}>
                   <IconIonicons name="add" size={30} />
                 </TouchableOpacity>
